@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentWithMVVM</string>
+    <string name="user_id">User Id</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="completed">Completed</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="reload">RELOAD</string>
+</resources>
